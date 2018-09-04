@@ -1,2 +1,2 @@
 # Bictoin-Development-Visualization
-A few visualizations of bitcoin development, present on github.
+A few visualizations of bitcoin  github repository
