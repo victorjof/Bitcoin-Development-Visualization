@@ -1,13 +1,12 @@
 import socket,json,requests,datetime,time
 
-count=0
 
 def request(url):
     sleep_time=10
     while True:
         try:
-            r=requests.get(url, auth=('','Insert your key here'))
-	    #https://github.com/settings/tokens
+            r=requests.get(url, auth=('','Insert your key here')) #https://github.com/settings/tokens
+	    
             try:
                 if(r.status_code != 200):
                     error=r.json()
@@ -83,9 +82,7 @@ def check_pull_artefact(pull_artefact):
 
 
 def extra_info(artefact_list,type):
-    global count
     size_artefacts=len(artefact_list)
-    jump_pull=0
 
     artefacts=[]
 
@@ -97,7 +94,6 @@ def extra_info(artefact_list,type):
     elif(type=='issues'):
         for idx in range(size_artefacts):
             if('pull_request' in artefact_list[idx]):
-                jump_pull+=1
                 continue
             artefact_list[idx]['commentaries']=request(artefact_list[idx]['comments_url']).json()
             artefacts.append(artefact_list[idx])
@@ -114,9 +110,7 @@ def extra_info(artefact_list,type):
             artefact_list[idx]['commentaries_review']=check_pull_artefact(commentaries_review)
             artefacts.append(artefact_list[idx])
 
-    count+=(size_artefacts-jump_pull)
 
-    print(count,' {} acquired'.format(type))
     return(artefacts)
 
             
