@@ -1,1 +1,3 @@
 /Crawler/data_json/*
+/Crawler/metadata_csv/*
+*.pyc

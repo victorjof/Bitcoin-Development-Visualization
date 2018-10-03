@@ -61,7 +61,7 @@ def sinc_solved_issues(filename):
 
     field=['author','number',	'labels',	'title',	'state',	'date',	'body',	'URL',	'closed_at','trace_links','files_changed','comments_authors','comments']
     with open('metadata_csv/'+filename_issue, 'r') as orig, open('metadata_csv/outputfile.csv', 'w') as tempfile:
-        reader=csv.DictReader(orig,fieldnames=field) 
+        reader=csv.DictReader((x.replace('\0', '') for x in orig),fieldnames=field) 
         writer=csv.DictWriter(tempfile,fieldnames=field)
         for row in reader:
             number=row['number']

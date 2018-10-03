@@ -6,7 +6,7 @@ import requests
 def main():
     repos=['bitcoin/bips','bitcoin/bitcoin']    
     for repo in repos:
-        get_repository(repo)
+        #get_repository(repo)
         convert_repo(repo)
 
 
