@@ -6,8 +6,8 @@ import ast
 from matplotlib import pyplot as plt
 import requests
 import sys
-import csv
-
+import pandas as pd
+import numpy as np
 maxInt = sys.maxsize
 decrement = True
 
@@ -24,41 +24,39 @@ while decrement:
 
 
 path='files/bitcoin-bitcoin/'
-
+repo='bitcoin-bitcoin'
 
 def detect_invalid_username(name):
     if(name=='ghost' or name==''):
         return True
     return False
 
+def write_gephi_format(repo,type,time_filter=False): #time filter -> artefacts from at least 2016
+    df=pd.read_csv(path+repo+'-{}.csv'.format(type))
+    df = df.replace(np.nan, '', regex=True)
+
+    if(time_filter):
+        df['date'] = pd.to_datetime(df['date'], errors='coerce')        
+        df[df['date']>pd.Timestamp(2016,1,1)]
+    
+    f=open('gephi-{}.txt'.format(repo),'a')
+    for index,issue in df.iterrows():
+        author=issue['author']
+        if(detect_invalid_username(author) or not(issue['comments_authors'])):
+            continue
+        for commenter in ast.literal_eval(issue['comments_authors']):
+            if(detect_invalid_username(commenter)):
+                continue
+            f.write('{},{}\n'.format(author,commenter))
+    
+    f.close()
+
+
 
 def main():
-    repo=sys.argv[1].replace('/','-')
-    reader_issues = csv.DictReader(open(path+repo+'-issues.csv', 'r'))
-    reader_pulls = csv.DictReader(open(path+repo+'-pulls.csv', 'r'))
-    
-    
-    f=open('daniel_format.txt','w')
-    dependences={}
 
-    for issue in reader_issues:
-        author=issue['author']
-        print(issue['number'])
-        if(detect_invalid_username(author) or not(issue['comments_authors'])):
-            continue
-        for commenter in ast.literal_eval(issue['comments_authors']):
-            if(detect_invalid_username(commenter)):
-                continue
-            f.write('{},{}\n'.format(author,commenter))
-    for issue in reader_pulls:
-        author=issue['author']
-        if(detect_invalid_username(author) or not(issue['comments_authors'])):
-            continue
-        for commenter in ast.literal_eval(issue['comments_authors']):
-            if(detect_invalid_username(commenter)):
-                continue
-            f.write('{},{}\n'.format(author,commenter))
-    f.close()
+    write_gephi_format(repo,type='issues')
+    write_gephi_format(repo,type='pulls')
 
 
 
