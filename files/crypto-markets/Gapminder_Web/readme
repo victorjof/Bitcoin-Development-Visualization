@@ -1,0 +1,4 @@
+Para executar a visualização ():
+- python3 -m server.http
+- localhost:8000/[caminho para o diretório contendo o index.html]
+
