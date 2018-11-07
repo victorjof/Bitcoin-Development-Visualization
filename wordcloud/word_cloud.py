@@ -2,14 +2,12 @@ import numpy as numpy
 import pandas as pd
 from os import path
 from PIL import Image
-from wordcloud import WordCloud, ImageColorGenerator
+from wordcloud import WordCloud, ImageColorGenerator,STOPWORDS
 import matplotlib.pyplot as plt
-from nltk.corpus import stopwords
 import numpy as np
 
 path='../files/bitcoin-bitcoin/'
-
-stopwords = set(stopwords.words('english'))
+stopwords = set(STOPWORDS)
 stopwords.update(['issue','pull', "github", "bitcoin",'bitcoinqt','bitcoind','qt','merge']+['https', 'issue', 'error','reproduce', 'like', 'http']+
 ['fix', 'test', 'update', 'add', 'tests', 'remove', 'use', 'feat']+
 ['x', 'pr', 'branch', 'issue', 'https', 'change', 'one', 'feature', 'request', 'pull', 'fix', 'code', 'changes']+['would','seem','see','seems','th','i\'m'])
