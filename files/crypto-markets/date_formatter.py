@@ -1,5 +1,6 @@
 #seleção das criptomoedas com os maiores capital de mercado baseado na coluna 'ranknow'
 #PARA EXECUTAR: python3 date_formatter.py [ranknow] [week|month|day|year]
+#exemplo: python3 date_formatter.py 5 week
 
 import pandas as pd
 import datetime
@@ -13,8 +14,8 @@ class Utils:
         self.df = None
         self.rank = None
 
-        self.aux_var_year = 0
-        self.aux_var_week = 0
+        self.aux_var_year = '0'
+        self.aux_var_week = '0'
 
     def filter_by_rank(self):
         list = [str(x) for x in range(1, int(rank) + 1)]
@@ -25,8 +26,8 @@ class Utils:
         self.df.drop_duplicates(subset=['name', 'date'], keep='first', inplace=True)
 
     def format_date(self):
-        if self.format_type == 'day' or self.format_type == 'month' or self.format_type == 'year' or self.format_type == 'week': #or self.format_type == 'quarter'
-            self.df['date'] = self.df['date'].apply(self.date_formatter)
+        # if self.format_type == 'day' or self.format_type == 'month' or self.format_type == 'year' or self.format_type == 'week': #or self.format_type == 'quarter'
+        self.df['date'] = self.df['date'].apply(self.date_formatter)
         # elif self.format_type == 'week':
         #     for index, row in self.df.iterrows():
         #         print (row['c1'], row['c2'])
