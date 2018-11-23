@@ -1,4 +1,4 @@
-,num_issues,num_pulls,num_commits,status
+author,num_issues,num_pulls,num_commits,status
 007pig,1,0,0,non-member
 0x9F,1,0,0,non-member
 0xfff,1,0,0,non-member
@@ -6,7 +6,7 @@
 1Hyena,0,1,0,non-member
 1Il1,1,0,0,non-member
 1mbtxn,0,1,0,non-member
-21E14,14,14,11,non-member
+2100000000000000,14,14,11,non-member
 251Labs,0,15,13,non-member
 26rahulsingh,1,0,0,non-member
 2HCHO,0,1,0,non-member
