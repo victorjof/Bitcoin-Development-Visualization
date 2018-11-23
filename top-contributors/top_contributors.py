@@ -37,7 +37,7 @@ def all_years():
 
     plt.figure(figsize=(15,10))
     plt.plot
-    plt.bar(list(range(50)),y[:50],width=1)
+    plt.bar(list(range(num_users)),y[:num_users],width=1)
     frame1 = plt.gca()
     frame1.axes.xaxis.set_ticklabels([])
     plt.xticks(rotation=0)
