@@ -54,4 +54,4 @@ for user in top_contribuitors.keys():
 
 
 df=pd.DataFrame.from_dict(top_contribuitors,orient='index')
-df.to_csv('teste.csv')
+df.to_csv('contribuition_stats.csv')
