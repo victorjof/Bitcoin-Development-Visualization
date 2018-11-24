@@ -7,8 +7,9 @@ import csv
 
 def date_formatter(date_str):
     year, week = date_str.split("w")
-    r = datetime.datetime.strptime(year+'-'+week, "%Y-%w")
-    print(year)
+    d = year + '-W' + week
+    r = datetime.datetime.strptime(d + '-0', "%Y-W%W-%w")
+    return r
 
 sum_week = 0
 globalID = ''
@@ -36,5 +37,6 @@ if __name__ == '__main__':
     #tira duplicatas e formata as datas 
     df=pd.read_csv('sum_week.csv')
     df.drop_duplicates(subset=['name', 'date'], keep='last', inplace=True)
-    # df['date'] = df['date'].apply(date_formatter)
+    df['date'] = df['date'].apply(date_formatter)
+
     df.to_csv('sum_week.csv', index=False)
