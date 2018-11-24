@@ -1,0 +1,1216 @@
+name,date,value
+commits,2010w51,3
+commits,2010w52,0
+commits,2011w01,4
+commits,2011w02,2
+commits,2011w03,24
+commits,2011w04,4
+commits,2011w05,3
+commits,2011w06,1
+commits,2011w07,7
+commits,2011w08,11
+commits,2011w09,8
+commits,2011w10,12
+commits,2011w11,3
+commits,2011w12,0
+commits,2011w13,1
+commits,2011w14,3
+commits,2011w15,17
+commits,2011w16,12
+commits,2011w17,9
+commits,2011w18,14
+commits,2011w19,44
+commits,2011w20,20
+commits,2011w21,32
+commits,2011w22,38
+commits,2011w23,27
+commits,2011w24,33
+commits,2011w25,32
+commits,2011w26,49
+commits,2011w27,48
+commits,2011w28,67
+commits,2011w29,25
+commits,2011w30,37
+commits,2011w31,26
+commits,2011w32,24
+commits,2011w33,14
+commits,2011w34,10
+commits,2011w35,34
+commits,2011w36,32
+commits,2011w37,8
+commits,2011w38,19
+commits,2011w39,43
+commits,2011w40,41
+commits,2011w41,10
+commits,2011w42,4
+commits,2011w43,21
+commits,2011w44,16
+commits,2011w45,25
+commits,2011w46,16
+commits,2011w47,18
+commits,2011w48,12
+commits,2011w49,7
+commits,2011w50,24
+commits,2011w51,52
+commits,2011w52,4
+commits,2012w01,19
+commits,2012w02,27
+commits,2012w03,15
+commits,2012w04,17
+commits,2012w05,8
+commits,2012w06,37
+commits,2012w07,46
+commits,2012w08,38
+commits,2012w09,16
+commits,2012w10,4
+commits,2012w11,13
+commits,2012w12,36
+commits,2012w13,27
+commits,2012w14,52
+commits,2012w15,42
+commits,2012w16,39
+commits,2012w17,19
+commits,2012w18,41
+commits,2012w19,104
+commits,2012w20,62
+commits,2012w21,40
+commits,2012w22,15
+commits,2012w23,17
+commits,2012w24,37
+commits,2012w25,34
+commits,2012w26,24
+commits,2012w27,26
+commits,2012w28,23
+commits,2012w29,24
+commits,2012w30,19
+commits,2012w31,9
+commits,2012w32,11
+commits,2012w33,10
+commits,2012w34,53
+commits,2012w35,40
+commits,2012w36,32
+commits,2012w37,11
+commits,2012w38,24
+commits,2012w39,18
+commits,2012w40,24
+commits,2012w41,21
+commits,2012w42,40
+commits,2012w43,23
+commits,2012w44,26
+commits,2012w45,25
+commits,2012w46,17
+commits,2012w47,8
+commits,2012w48,12
+commits,2012w49,18
+commits,2012w50,24
+commits,2012w51,9
+commits,2012w52,1
+commits,2013w01,16
+commits,2013w02,11
+commits,2013w03,43
+commits,2013w04,33
+commits,2013w05,35
+commits,2013w06,16
+commits,2013w07,13
+commits,2013w08,21
+commits,2013w09,6
+commits,2013w10,3
+commits,2013w11,3
+commits,2013w12,25
+commits,2013w13,20
+commits,2013w14,53
+commits,2013w15,34
+commits,2013w16,12
+commits,2013w17,34
+commits,2013w18,36
+commits,2013w19,14
+commits,2013w20,6
+commits,2013w21,25
+commits,2013w22,21
+commits,2013w23,25
+commits,2013w24,12
+commits,2013w25,15
+commits,2013w26,25
+commits,2013w27,7
+commits,2013w28,9
+commits,2013w29,11
+commits,2013w30,15
+commits,2013w31,6
+commits,2013w32,19
+commits,2013w33,23
+commits,2013w34,29
+commits,2013w35,19
+commits,2013w36,16
+commits,2013w37,21
+commits,2013w38,34
+commits,2013w39,19
+commits,2013w40,22
+commits,2013w41,18
+commits,2013w42,48
+commits,2013w43,55
+commits,2013w44,31
+commits,2013w45,29
+commits,2013w46,48
+commits,2013w47,27
+commits,2013w48,26
+commits,2013w49,40
+commits,2013w50,49
+commits,2013w51,38
+commits,2013w52,8
+commits,2014w01,5
+commits,2014w02,53
+commits,2014w03,64
+commits,2014w04,34
+commits,2014w05,43
+commits,2014w06,27
+commits,2014w07,31
+commits,2014w08,33
+commits,2014w09,44
+commits,2014w10,23
+commits,2014w11,48
+commits,2014w12,36
+commits,2014w13,29
+commits,2014w14,38
+commits,2014w15,37
+commits,2014w16,13
+commits,2014w17,28
+commits,2014w18,31
+commits,2014w19,51
+commits,2014w20,29
+commits,2014w21,39
+commits,2014w22,25
+commits,2014w23,65
+commits,2014w24,38
+commits,2014w25,46
+commits,2014w26,76
+commits,2014w27,51
+commits,2014w28,70
+commits,2014w29,58
+commits,2014w30,30
+commits,2014w31,40
+commits,2014w32,43
+commits,2014w33,45
+commits,2014w34,45
+commits,2014w35,58
+commits,2014w36,47
+commits,2014w37,54
+commits,2014w38,52
+commits,2014w39,69
+commits,2014w40,75
+commits,2014w41,43
+commits,2014w42,42
+commits,2014w43,54
+commits,2014w44,67
+commits,2014w45,47
+commits,2014w46,33
+commits,2014w47,117
+commits,2014w48,67
+commits,2014w49,56
+commits,2014w50,44
+commits,2014w51,51
+commits,2014w52,37
+commits,2015w01,53
+commits,2015w02,55
+commits,2015w03,36
+commits,2015w04,21
+commits,2015w05,36
+commits,2015w06,31
+commits,2015w07,10
+commits,2015w08,7
+commits,2015w09,19
+commits,2015w10,32
+commits,2015w11,32
+commits,2015w12,18
+commits,2015w13,34
+commits,2015w14,19
+commits,2015w15,19
+commits,2015w16,20
+commits,2015w17,48
+commits,2015w18,52
+commits,2015w19,37
+commits,2015w20,61
+commits,2015w21,37
+commits,2015w22,33
+commits,2015w23,60
+commits,2015w24,37
+commits,2015w25,49
+commits,2015w26,22
+commits,2015w27,42
+commits,2015w28,32
+commits,2015w29,33
+commits,2015w30,35
+commits,2015w31,37
+commits,2015w32,40
+commits,2015w33,24
+commits,2015w34,34
+commits,2015w35,13
+commits,2015w36,48
+commits,2015w37,18
+commits,2015w38,37
+commits,2015w39,43
+commits,2015w40,56
+commits,2015w41,55
+commits,2015w42,39
+commits,2015w43,56
+commits,2015w44,51
+commits,2015w45,40
+commits,2015w46,103
+commits,2015w47,78
+commits,2015w48,68
+commits,2015w49,124
+commits,2015w50,29
+commits,2015w51,27
+commits,2015w52,20
+commits,2015w53,9
+commits,2016w01,58
+commits,2016w02,29
+commits,2016w03,37
+commits,2016w04,27
+commits,2016w05,22
+commits,2016w06,31
+commits,2016w07,7
+commits,2016w08,16
+commits,2016w09,10
+commits,2016w10,14
+commits,2016w11,49
+commits,2016w12,18
+commits,2016w13,29
+commits,2016w14,43
+commits,2016w15,32
+commits,2016w16,42
+commits,2016w17,45
+commits,2016w18,30
+commits,2016w19,46
+commits,2016w20,35
+commits,2016w21,17
+commits,2016w22,34
+commits,2016w23,58
+commits,2016w24,49
+commits,2016w25,57
+commits,2016w26,19
+commits,2016w27,22
+commits,2016w28,11
+commits,2016w29,23
+commits,2016w30,35
+commits,2016w31,15
+commits,2016w32,19
+commits,2016w33,27
+commits,2016w34,53
+commits,2016w35,19
+commits,2016w36,54
+commits,2016w37,29
+commits,2016w38,38
+commits,2016w39,37
+commits,2016w40,32
+commits,2016w41,20
+commits,2016w42,49
+commits,2016w43,28
+commits,2016w44,46
+commits,2016w45,59
+commits,2016w46,23
+commits,2016w47,39
+commits,2016w48,47
+commits,2016w49,36
+commits,2016w50,33
+commits,2016w51,31
+commits,2016w52,26
+commits,2017w01,78
+commits,2017w02,83
+commits,2017w03,38
+commits,2017w04,32
+commits,2017w05,32
+commits,2017w06,51
+commits,2017w07,40
+commits,2017w08,32
+commits,2017w09,62
+commits,2017w10,56
+commits,2017w11,27
+commits,2017w12,62
+commits,2017w13,57
+commits,2017w14,46
+commits,2017w15,37
+commits,2017w16,52
+commits,2017w17,20
+commits,2017w18,56
+commits,2017w19,42
+commits,2017w20,29
+commits,2017w21,29
+commits,2017w22,46
+commits,2017w23,90
+commits,2017w24,25
+commits,2017w25,23
+commits,2017w26,59
+commits,2017w27,40
+commits,2017w28,47
+commits,2017w29,57
+commits,2017w30,26
+commits,2017w31,25
+commits,2017w32,32
+commits,2017w33,41
+commits,2017w34,28
+commits,2017w35,28
+commits,2017w36,69
+commits,2017w37,35
+commits,2017w38,27
+commits,2017w39,33
+commits,2017w40,28
+commits,2017w41,46
+commits,2017w42,33
+commits,2017w43,15
+commits,2017w44,23
+commits,2017w45,62
+commits,2017w46,52
+commits,2017w47,14
+commits,2017w48,23
+commits,2017w49,28
+commits,2017w50,31
+commits,2017w51,40
+commits,2017w52,10
+commits,2018w01,20
+commits,2018w02,28
+commits,2018w03,23
+commits,2018w04,43
+commits,2018w05,39
+commits,2018w06,45
+commits,2018w07,48
+commits,2018w08,18
+commits,2018w09,31
+commits,2018w10,57
+commits,2018w11,38
+commits,2018w12,50
+commits,2018w13,53
+commits,2018w14,77
+commits,2018w15,78
+commits,2018w16,54
+commits,2018w17,51
+commits,2018w18,49
+commits,2018w19,34
+commits,2018w20,38
+commits,2018w21,22
+commits,2018w22,33
+commits,2018w23,27
+commits,2018w24,44
+commits,2018w25,38
+commits,2018w26,38
+commits,2018w27,22
+commits,2018w28,50
+commits,2018w29,48
+commits,2018w30,50
+commits,2018w31,55
+commits,2018w32,41
+commits,2018w33,41
+commits,2018w34,45
+commits,2018w35,59
+commits,2018w36,22
+commits,2018w37,25
+commits,2018w38,8
+pull requests,2010w51,3
+pull requests,2010w52,0
+pull requests,2011w01,3
+pull requests,2011w02,3
+pull requests,2011w03,8
+pull requests,2011w04,1
+pull requests,2011w05,5
+pull requests,2011w06,2
+pull requests,2011w07,1
+pull requests,2011w08,4
+pull requests,2011w09,9
+pull requests,2011w10,3
+pull requests,2011w11,6
+pull requests,2011w12,3
+pull requests,2011w13,2
+pull requests,2011w14,1
+pull requests,2011w15,14
+pull requests,2011w16,9
+pull requests,2011w17,2
+pull requests,2011w18,12
+pull requests,2011w19,10
+pull requests,2011w20,10
+pull requests,2011w21,18
+pull requests,2011w22,10
+pull requests,2011w23,4
+pull requests,2011w24,6
+pull requests,2011w25,8
+pull requests,2011w26,19
+pull requests,2011w27,10
+pull requests,2011w28,15
+pull requests,2011w29,5
+pull requests,2011w30,10
+pull requests,2011w31,5
+pull requests,2011w32,9
+pull requests,2011w33,3
+pull requests,2011w34,1
+pull requests,2011w35,3
+pull requests,2011w36,16
+pull requests,2011w37,6
+pull requests,2011w38,4
+pull requests,2011w39,10
+pull requests,2011w40,26
+pull requests,2011w41,4
+pull requests,2011w42,3
+pull requests,2011w43,2
+pull requests,2011w44,7
+pull requests,2011w45,9
+pull requests,2011w46,1
+pull requests,2011w47,5
+pull requests,2011w48,3
+pull requests,2011w49,7
+pull requests,2011w50,8
+pull requests,2011w51,7
+pull requests,2011w52,2
+pull requests,2012w01,8
+pull requests,2012w02,4
+pull requests,2012w03,9
+pull requests,2012w04,4
+pull requests,2012w05,6
+pull requests,2012w06,14
+pull requests,2012w07,19
+pull requests,2012w08,20
+pull requests,2012w09,6
+pull requests,2012w10,6
+pull requests,2012w11,8
+pull requests,2012w12,24
+pull requests,2012w13,20
+pull requests,2012w14,20
+pull requests,2012w15,26
+pull requests,2012w16,19
+pull requests,2012w17,6
+pull requests,2012w18,25
+pull requests,2012w19,45
+pull requests,2012w20,57
+pull requests,2012w21,18
+pull requests,2012w22,15
+pull requests,2012w23,8
+pull requests,2012w24,19
+pull requests,2012w25,26
+pull requests,2012w26,15
+pull requests,2012w27,16
+pull requests,2012w28,19
+pull requests,2012w29,14
+pull requests,2012w30,9
+pull requests,2012w31,8
+pull requests,2012w32,2
+pull requests,2012w33,10
+pull requests,2012w34,26
+pull requests,2012w35,27
+pull requests,2012w36,23
+pull requests,2012w37,7
+pull requests,2012w38,13
+pull requests,2012w39,25
+pull requests,2012w40,15
+pull requests,2012w41,11
+pull requests,2012w42,7
+pull requests,2012w43,11
+pull requests,2012w44,9
+pull requests,2012w45,14
+pull requests,2012w46,14
+pull requests,2012w47,4
+pull requests,2012w48,15
+pull requests,2012w49,12
+pull requests,2012w50,15
+pull requests,2012w51,8
+pull requests,2012w52,5
+pull requests,2013w01,10
+pull requests,2013w02,14
+pull requests,2013w03,12
+pull requests,2013w04,18
+pull requests,2013w05,22
+pull requests,2013w06,12
+pull requests,2013w07,6
+pull requests,2013w08,2
+pull requests,2013w09,2
+pull requests,2013w10,2
+pull requests,2013w11,4
+pull requests,2013w12,14
+pull requests,2013w13,12
+pull requests,2013w14,28
+pull requests,2013w15,20
+pull requests,2013w16,6
+pull requests,2013w17,24
+pull requests,2013w18,23
+pull requests,2013w19,15
+pull requests,2013w20,9
+pull requests,2013w21,12
+pull requests,2013w22,7
+pull requests,2013w23,12
+pull requests,2013w24,10
+pull requests,2013w25,9
+pull requests,2013w26,13
+pull requests,2013w27,8
+pull requests,2013w28,6
+pull requests,2013w29,5
+pull requests,2013w30,10
+pull requests,2013w31,8
+pull requests,2013w32,8
+pull requests,2013w33,12
+pull requests,2013w34,22
+pull requests,2013w35,15
+pull requests,2013w36,9
+pull requests,2013w37,9
+pull requests,2013w38,13
+pull requests,2013w39,14
+pull requests,2013w40,11
+pull requests,2013w41,20
+pull requests,2013w42,16
+pull requests,2013w43,32
+pull requests,2013w44,15
+pull requests,2013w45,12
+pull requests,2013w46,33
+pull requests,2013w47,19
+pull requests,2013w48,13
+pull requests,2013w49,20
+pull requests,2013w50,33
+pull requests,2013w51,17
+pull requests,2013w52,11
+pull requests,2014w01,4
+pull requests,2014w02,21
+pull requests,2014w03,20
+pull requests,2014w04,13
+pull requests,2014w05,14
+pull requests,2014w06,16
+pull requests,2014w07,25
+pull requests,2014w08,31
+pull requests,2014w09,30
+pull requests,2014w10,27
+pull requests,2014w11,37
+pull requests,2014w12,27
+pull requests,2014w13,20
+pull requests,2014w14,16
+pull requests,2014w15,23
+pull requests,2014w16,6
+pull requests,2014w17,8
+pull requests,2014w18,16
+pull requests,2014w19,28
+pull requests,2014w20,10
+pull requests,2014w21,25
+pull requests,2014w22,17
+pull requests,2014w23,34
+pull requests,2014w24,18
+pull requests,2014w25,26
+pull requests,2014w26,35
+pull requests,2014w27,19
+pull requests,2014w28,31
+pull requests,2014w29,27
+pull requests,2014w30,15
+pull requests,2014w31,19
+pull requests,2014w32,32
+pull requests,2014w33,35
+pull requests,2014w34,28
+pull requests,2014w35,31
+pull requests,2014w36,38
+pull requests,2014w37,26
+pull requests,2014w38,27
+pull requests,2014w39,35
+pull requests,2014w40,26
+pull requests,2014w41,17
+pull requests,2014w42,15
+pull requests,2014w43,28
+pull requests,2014w44,29
+pull requests,2014w45,43
+pull requests,2014w46,24
+pull requests,2014w47,38
+pull requests,2014w48,27
+pull requests,2014w49,30
+pull requests,2014w50,22
+pull requests,2014w51,42
+pull requests,2014w52,19
+pull requests,2015w01,19
+pull requests,2015w02,22
+pull requests,2015w03,16
+pull requests,2015w04,18
+pull requests,2015w05,11
+pull requests,2015w06,17
+pull requests,2015w07,7
+pull requests,2015w08,10
+pull requests,2015w09,13
+pull requests,2015w10,12
+pull requests,2015w11,15
+pull requests,2015w12,18
+pull requests,2015w13,13
+pull requests,2015w14,13
+pull requests,2015w15,20
+pull requests,2015w16,15
+pull requests,2015w17,26
+pull requests,2015w18,19
+pull requests,2015w19,12
+pull requests,2015w20,25
+pull requests,2015w21,21
+pull requests,2015w22,13
+pull requests,2015w23,33
+pull requests,2015w24,21
+pull requests,2015w25,25
+pull requests,2015w26,17
+pull requests,2015w27,18
+pull requests,2015w28,32
+pull requests,2015w29,20
+pull requests,2015w30,7
+pull requests,2015w31,14
+pull requests,2015w32,17
+pull requests,2015w33,11
+pull requests,2015w34,12
+pull requests,2015w35,7
+pull requests,2015w36,25
+pull requests,2015w37,14
+pull requests,2015w38,18
+pull requests,2015w39,16
+pull requests,2015w40,15
+pull requests,2015w41,33
+pull requests,2015w42,30
+pull requests,2015w43,29
+pull requests,2015w44,21
+pull requests,2015w45,23
+pull requests,2015w46,35
+pull requests,2015w47,43
+pull requests,2015w48,33
+pull requests,2015w49,33
+pull requests,2015w50,17
+pull requests,2015w51,20
+pull requests,2015w52,10
+pull requests,2015w53,7
+pull requests,2016w01,28
+pull requests,2016w02,21
+pull requests,2016w03,24
+pull requests,2016w04,19
+pull requests,2016w05,13
+pull requests,2016w06,32
+pull requests,2016w07,10
+pull requests,2016w08,20
+pull requests,2016w09,10
+pull requests,2016w10,17
+pull requests,2016w11,27
+pull requests,2016w12,12
+pull requests,2016w13,33
+pull requests,2016w14,42
+pull requests,2016w15,27
+pull requests,2016w16,24
+pull requests,2016w17,31
+pull requests,2016w18,20
+pull requests,2016w19,21
+pull requests,2016w20,19
+pull requests,2016w21,12
+pull requests,2016w22,17
+pull requests,2016w23,29
+pull requests,2016w24,22
+pull requests,2016w25,26
+pull requests,2016w26,18
+pull requests,2016w27,18
+pull requests,2016w28,12
+pull requests,2016w29,28
+pull requests,2016w30,16
+pull requests,2016w31,33
+pull requests,2016w32,15
+pull requests,2016w33,28
+pull requests,2016w34,40
+pull requests,2016w35,29
+pull requests,2016w36,29
+pull requests,2016w37,37
+pull requests,2016w38,39
+pull requests,2016w39,44
+pull requests,2016w40,23
+pull requests,2016w41,16
+pull requests,2016w42,39
+pull requests,2016w43,25
+pull requests,2016w44,25
+pull requests,2016w45,39
+pull requests,2016w46,22
+pull requests,2016w47,21
+pull requests,2016w48,34
+pull requests,2016w49,33
+pull requests,2016w50,36
+pull requests,2016w51,34
+pull requests,2016w52,13
+pull requests,2017w01,23
+pull requests,2017w02,48
+pull requests,2017w03,31
+pull requests,2017w04,28
+pull requests,2017w05,21
+pull requests,2017w06,40
+pull requests,2017w07,37
+pull requests,2017w08,41
+pull requests,2017w09,36
+pull requests,2017w10,35
+pull requests,2017w11,28
+pull requests,2017w12,37
+pull requests,2017w13,36
+pull requests,2017w14,27
+pull requests,2017w15,36
+pull requests,2017w16,34
+pull requests,2017w17,22
+pull requests,2017w18,34
+pull requests,2017w19,23
+pull requests,2017w20,24
+pull requests,2017w21,23
+pull requests,2017w22,35
+pull requests,2017w23,39
+pull requests,2017w24,28
+pull requests,2017w25,24
+pull requests,2017w26,34
+pull requests,2017w27,42
+pull requests,2017w28,53
+pull requests,2017w29,48
+pull requests,2017w30,25
+pull requests,2017w31,24
+pull requests,2017w32,31
+pull requests,2017w33,41
+pull requests,2017w34,42
+pull requests,2017w35,35
+pull requests,2017w36,45
+pull requests,2017w37,37
+pull requests,2017w38,18
+pull requests,2017w39,33
+pull requests,2017w40,15
+pull requests,2017w41,28
+pull requests,2017w42,33
+pull requests,2017w43,15
+pull requests,2017w44,24
+pull requests,2017w45,40
+pull requests,2017w46,34
+pull requests,2017w47,22
+pull requests,2017w48,27
+pull requests,2017w49,19
+pull requests,2017w50,34
+pull requests,2017w51,30
+pull requests,2017w52,14
+pull requests,2018w01,17
+pull requests,2018w02,30
+pull requests,2018w03,25
+pull requests,2018w04,25
+pull requests,2018w05,31
+pull requests,2018w06,31
+pull requests,2018w07,39
+pull requests,2018w08,23
+pull requests,2018w09,36
+pull requests,2018w10,45
+pull requests,2018w11,32
+pull requests,2018w12,39
+pull requests,2018w13,49
+pull requests,2018w14,38
+pull requests,2018w15,48
+pull requests,2018w16,42
+pull requests,2018w17,48
+pull requests,2018w18,38
+pull requests,2018w19,34
+pull requests,2018w20,40
+pull requests,2018w21,20
+pull requests,2018w22,30
+pull requests,2018w23,24
+pull requests,2018w24,42
+pull requests,2018w25,26
+pull requests,2018w26,38
+pull requests,2018w27,18
+pull requests,2018w28,45
+pull requests,2018w29,52
+pull requests,2018w30,32
+pull requests,2018w31,54
+pull requests,2018w32,46
+pull requests,2018w33,36
+pull requests,2018w34,52
+pull requests,2018w35,38
+pull requests,2018w36,31
+pull requests,2018w37,39
+pull requests,2018w38,42
+issues,2010w51,7
+issues,2010w52,0
+issues,2011w01,2
+issues,2011w02,2
+issues,2011w03,2
+issues,2011w04,0
+issues,2011w05,0
+issues,2011w06,3
+issues,2011w07,3
+issues,2011w08,4
+issues,2011w09,8
+issues,2011w10,0
+issues,2011w11,1
+issues,2011w12,1
+issues,2011w13,0
+issues,2011w14,2
+issues,2011w15,3
+issues,2011w16,5
+issues,2011w17,2
+issues,2011w18,1
+issues,2011w19,8
+issues,2011w20,12
+issues,2011w21,5
+issues,2011w22,3
+issues,2011w23,6
+issues,2011w24,11
+issues,2011w25,10
+issues,2011w26,5
+issues,2011w27,7
+issues,2011w28,6
+issues,2011w29,1
+issues,2011w30,5
+issues,2011w31,5
+issues,2011w32,2
+issues,2011w33,2
+issues,2011w34,2
+issues,2011w35,5
+issues,2011w36,3
+issues,2011w37,2
+issues,2011w38,2
+issues,2011w39,2
+issues,2011w40,3
+issues,2011w41,2
+issues,2011w42,0
+issues,2011w43,3
+issues,2011w44,3
+issues,2011w45,15
+issues,2011w46,3
+issues,2011w47,7
+issues,2011w48,4
+issues,2011w49,4
+issues,2011w50,4
+issues,2011w51,5
+issues,2011w52,1
+issues,2012w01,8
+issues,2012w02,4
+issues,2012w03,4
+issues,2012w04,5
+issues,2012w05,2
+issues,2012w06,9
+issues,2012w07,11
+issues,2012w08,10
+issues,2012w09,3
+issues,2012w10,6
+issues,2012w11,8
+issues,2012w12,9
+issues,2012w13,7
+issues,2012w14,15
+issues,2012w15,15
+issues,2012w16,11
+issues,2012w17,11
+issues,2012w18,15
+issues,2012w19,24
+issues,2012w20,11
+issues,2012w21,6
+issues,2012w22,7
+issues,2012w23,6
+issues,2012w24,13
+issues,2012w25,10
+issues,2012w26,9
+issues,2012w27,8
+issues,2012w28,5
+issues,2012w29,7
+issues,2012w30,4
+issues,2012w31,1
+issues,2012w32,11
+issues,2012w33,4
+issues,2012w34,14
+issues,2012w35,15
+issues,2012w36,6
+issues,2012w37,3
+issues,2012w38,11
+issues,2012w39,9
+issues,2012w40,5
+issues,2012w41,6
+issues,2012w42,0
+issues,2012w43,10
+issues,2012w44,3
+issues,2012w45,6
+issues,2012w46,6
+issues,2012w47,1
+issues,2012w48,12
+issues,2012w49,7
+issues,2012w50,4
+issues,2012w51,3
+issues,2012w52,2
+issues,2013w01,5
+issues,2013w02,3
+issues,2013w03,8
+issues,2013w04,17
+issues,2013w05,11
+issues,2013w06,14
+issues,2013w07,7
+issues,2013w08,10
+issues,2013w09,0
+issues,2013w10,0
+issues,2013w11,6
+issues,2013w12,12
+issues,2013w13,6
+issues,2013w14,22
+issues,2013w15,19
+issues,2013w16,2
+issues,2013w17,19
+issues,2013w18,7
+issues,2013w19,9
+issues,2013w20,3
+issues,2013w21,12
+issues,2013w22,17
+issues,2013w23,13
+issues,2013w24,6
+issues,2013w25,6
+issues,2013w26,2
+issues,2013w27,4
+issues,2013w28,2
+issues,2013w29,1
+issues,2013w30,8
+issues,2013w31,2
+issues,2013w32,3
+issues,2013w33,1
+issues,2013w34,7
+issues,2013w35,5
+issues,2013w36,3
+issues,2013w37,5
+issues,2013w38,9
+issues,2013w39,4
+issues,2013w40,4
+issues,2013w41,5
+issues,2013w42,12
+issues,2013w43,13
+issues,2013w44,9
+issues,2013w45,20
+issues,2013w46,11
+issues,2013w47,14
+issues,2013w48,12
+issues,2013w49,9
+issues,2013w50,14
+issues,2013w51,6
+issues,2013w52,4
+issues,2014w01,5
+issues,2014w02,8
+issues,2014w03,13
+issues,2014w04,9
+issues,2014w05,8
+issues,2014w06,9
+issues,2014w07,12
+issues,2014w08,11
+issues,2014w09,11
+issues,2014w10,19
+issues,2014w11,20
+issues,2014w12,25
+issues,2014w13,17
+issues,2014w14,12
+issues,2014w15,8
+issues,2014w16,15
+issues,2014w17,10
+issues,2014w18,6
+issues,2014w19,20
+issues,2014w20,4
+issues,2014w21,8
+issues,2014w22,13
+issues,2014w23,4
+issues,2014w24,9
+issues,2014w25,20
+issues,2014w26,11
+issues,2014w27,7
+issues,2014w28,14
+issues,2014w29,8
+issues,2014w30,8
+issues,2014w31,8
+issues,2014w32,9
+issues,2014w33,8
+issues,2014w34,11
+issues,2014w35,7
+issues,2014w36,13
+issues,2014w37,19
+issues,2014w38,10
+issues,2014w39,7
+issues,2014w40,7
+issues,2014w41,5
+issues,2014w42,3
+issues,2014w43,10
+issues,2014w44,9
+issues,2014w45,4
+issues,2014w46,9
+issues,2014w47,18
+issues,2014w48,10
+issues,2014w49,5
+issues,2014w50,6
+issues,2014w51,2
+issues,2014w52,7
+issues,2015w01,10
+issues,2015w02,13
+issues,2015w03,14
+issues,2015w04,7
+issues,2015w05,5
+issues,2015w06,9
+issues,2015w07,9
+issues,2015w08,9
+issues,2015w09,6
+issues,2015w10,8
+issues,2015w11,6
+issues,2015w12,11
+issues,2015w13,1
+issues,2015w14,2
+issues,2015w15,7
+issues,2015w16,6
+issues,2015w17,8
+issues,2015w18,11
+issues,2015w19,7
+issues,2015w20,4
+issues,2015w21,7
+issues,2015w22,4
+issues,2015w23,3
+issues,2015w24,9
+issues,2015w25,10
+issues,2015w26,7
+issues,2015w27,4
+issues,2015w28,12
+issues,2015w29,12
+issues,2015w30,6
+issues,2015w31,10
+issues,2015w32,16
+issues,2015w33,8
+issues,2015w34,9
+issues,2015w35,4
+issues,2015w36,15
+issues,2015w37,2
+issues,2015w38,14
+issues,2015w39,7
+issues,2015w40,10
+issues,2015w41,11
+issues,2015w42,12
+issues,2015w43,6
+issues,2015w44,5
+issues,2015w45,10
+issues,2015w46,15
+issues,2015w47,12
+issues,2015w48,15
+issues,2015w49,10
+issues,2015w50,9
+issues,2015w51,10
+issues,2015w52,11
+issues,2015w53,6
+issues,2016w01,13
+issues,2016w02,13
+issues,2016w03,11
+issues,2016w04,15
+issues,2016w05,10
+issues,2016w06,20
+issues,2016w07,4
+issues,2016w08,8
+issues,2016w09,7
+issues,2016w10,3
+issues,2016w11,13
+issues,2016w12,5
+issues,2016w13,12
+issues,2016w14,7
+issues,2016w15,12
+issues,2016w16,6
+issues,2016w17,11
+issues,2016w18,11
+issues,2016w19,7
+issues,2016w20,8
+issues,2016w21,8
+issues,2016w22,13
+issues,2016w23,11
+issues,2016w24,8
+issues,2016w25,12
+issues,2016w26,7
+issues,2016w27,3
+issues,2016w28,4
+issues,2016w29,6
+issues,2016w30,15
+issues,2016w31,7
+issues,2016w32,6
+issues,2016w33,9
+issues,2016w34,15
+issues,2016w35,9
+issues,2016w36,9
+issues,2016w37,10
+issues,2016w38,12
+issues,2016w39,8
+issues,2016w40,7
+issues,2016w41,10
+issues,2016w42,18
+issues,2016w43,15
+issues,2016w44,16
+issues,2016w45,18
+issues,2016w46,10
+issues,2016w47,11
+issues,2016w48,11
+issues,2016w49,9
+issues,2016w50,10
+issues,2016w51,12
+issues,2016w52,13
+issues,2017w01,9
+issues,2017w02,12
+issues,2017w03,9
+issues,2017w04,11
+issues,2017w05,16
+issues,2017w06,8
+issues,2017w07,14
+issues,2017w08,19
+issues,2017w09,18
+issues,2017w10,17
+issues,2017w11,20
+issues,2017w12,10
+issues,2017w13,9
+issues,2017w14,4
+issues,2017w15,6
+issues,2017w16,7
+issues,2017w17,6
+issues,2017w18,10
+issues,2017w19,11
+issues,2017w20,7
+issues,2017w21,8
+issues,2017w22,16
+issues,2017w23,5
+issues,2017w24,14
+issues,2017w25,6
+issues,2017w26,10
+issues,2017w27,15
+issues,2017w28,11
+issues,2017w29,15
+issues,2017w30,11
+issues,2017w31,13
+issues,2017w32,10
+issues,2017w33,16
+issues,2017w34,22
+issues,2017w35,14
+issues,2017w36,20
+issues,2017w37,16
+issues,2017w38,10
+issues,2017w39,6
+issues,2017w40,10
+issues,2017w41,9
+issues,2017w42,7
+issues,2017w43,10
+issues,2017w44,12
+issues,2017w45,16
+issues,2017w46,21
+issues,2017w47,8
+issues,2017w48,17
+issues,2017w49,18
+issues,2017w50,27
+issues,2017w51,30
+issues,2017w52,13
+issues,2018w01,11
+issues,2018w02,15
+issues,2018w03,13
+issues,2018w04,15
+issues,2018w05,19
+issues,2018w06,23
+issues,2018w07,24
+issues,2018w08,19
+issues,2018w09,19
+issues,2018w10,21
+issues,2018w11,8
+issues,2018w12,21
+issues,2018w13,20
+issues,2018w14,17
+issues,2018w15,13
+issues,2018w16,10
+issues,2018w17,11
+issues,2018w18,10
+issues,2018w19,9
+issues,2018w20,20
+issues,2018w21,6
+issues,2018w22,14
+issues,2018w23,7
+issues,2018w24,11
+issues,2018w25,15
+issues,2018w26,12
+issues,2018w27,12
+issues,2018w28,9
+issues,2018w29,14
+issues,2018w30,11
+issues,2018w31,21
+issues,2018w32,11
+issues,2018w33,10
+issues,2018w34,14
+issues,2018w35,11
+issues,2018w36,11
+issues,2018w37,7
+issues,2018w38,10
