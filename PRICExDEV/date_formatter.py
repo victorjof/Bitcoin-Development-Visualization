@@ -23,7 +23,7 @@ class Utils:
         self.df = x[x['ranknow'].isin(list)]
 
     def remove_duplicates(self):
-        self.df.drop_duplicates(subset=['key', 'date'], keep='first', inplace=True)
+        self.df.drop_duplicates(subset=['name', 'date'], keep='last', inplace=True)
 
     def format_date(self):
         # if self.format_type == 'day' or self.format_type == 'month' or self.format_type == 'year' or self.format_type == 'week': #or self.format_type == 'quarter'
@@ -64,7 +64,7 @@ class Utils:
         return formatted_date
 
 if __name__ == '__main__':
-    df=pd.read_csv('contribution_history_edited.csv')
+    df=pd.read_csv('contribution_history_accumulated_edited.csv')
     rank = sys.argv[1]
     format_type = sys.argv[2]
 
@@ -77,7 +77,7 @@ if __name__ == '__main__':
     utils.format_date()
     utils.remove_duplicates()
         
-    utils.df.to_csv('gapminder_1.csv', index=False)
+    utils.df.to_csv('gapminder_2.csv', index=False)
 
     #df['date'] = pd.to_datetime(df['date'], errors='coerce')
     #df['date'] = df['date'].apply(lambda x: x.strftime('%Y-%m'))
