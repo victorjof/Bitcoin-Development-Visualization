@@ -20,9 +20,8 @@ top_contribuitors={}
 
 for artefact in artefacts:
     df=pd.read_csv(path+'bitcoin-bitcoin-{}.csv'.format(artefact))
-    if(artefact=='pulls'):
-        df=df[df['body'].str.contains('Merge #')==False]
-
+    if(artefact=='commits'):
+        df=df[df['body'].str.contains('Merge')==False]
     authors=df.groupby('author')
     top_cont=authors.size().sort_values(ascending=False)
     top_cont=zip(top_cont.index,top_cont)
