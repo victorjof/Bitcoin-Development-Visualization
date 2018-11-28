@@ -64,7 +64,7 @@ class Utils:
         return formatted_date
 
 if __name__ == '__main__':
-    df=pd.read_csv('contribution_history_with_coin.csv')
+    df=pd.read_csv('contribution_history_accumulated_edited.csv')
     rank = sys.argv[1]
     format_type = sys.argv[2]
 
@@ -75,9 +75,9 @@ if __name__ == '__main__':
 
     #utils.filter_by_rank()
     utils.format_date()
-    #utils.remove_duplicates()
+    utils.remove_duplicates()
         
-    utils.df.to_csv('week_with_coin.csv', index=False)
+    utils.df.to_csv('edit2_accum.csv', index=False)
 
     #df['date'] = pd.to_datetime(df['date'], errors='coerce')
     #df['date'] = df['date'].apply(lambda x: x.strftime('%Y-%m'))
