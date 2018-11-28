@@ -51,7 +51,7 @@ for artefact in artefats:
     df['date']=df['date'].apply(lambda x: str(x).split(' ')[0])
     
     df=df.sort_values(by='date')
-    df=df[df['body'].str.contains('Merge #')==False]
+    df=df[df['body'].str.contains('Merge')==False]
     
     df=df.groupby('date').count()
     df=df[['author']] # since is unique for one contribuition, can be used as counter

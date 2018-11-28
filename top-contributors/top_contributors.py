@@ -26,11 +26,9 @@ def all_years():
     df=pd.read_csv(path+'bitcoin-bitcoin-commits.csv')
     df['date'] = pd.to_datetime(df['date'], errors='coerce')
     print(df.shape)
-    df=df[df['body'].str.contains('Merge #')==False]
+    df=df[df['body'].str.contains('Merge')==False]
     print(df.shape)
 
-
-    df=pd.read_csv(path+'bitcoin-bitcoin-commits.csv')
     authors=df.groupby('author')
     y=authors.size().sort_values(ascending=False).values.tolist()[:100]
 
@@ -48,7 +46,7 @@ def all_years():
 def by_year():
     df=pd.read_csv(path+'bitcoin-bitcoin-commits.csv')
     df['date'] = pd.to_datetime(df['date'], errors='coerce')
-    df=df[df['body'].str.contains('Merge #')==False]
+    df=df[df['body'].str.contains('Merge')==False]
 
 
     dfs=[]
@@ -84,5 +82,5 @@ def by_year():
 
     plt.show()
 
-
+all_years()
 by_year()

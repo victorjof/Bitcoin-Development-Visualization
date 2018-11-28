@@ -2,6 +2,9 @@ import plotly.plotly as py
 import plotly.graph_objs as go
 import plotly.tools as tools
 
+
+tools.set_credentials_file(username='ghost-42', api_key='1oIJ0CFL9cP2XfIqvlJ6')
+
 import pandas as pd 
 
 df = pd.read_csv("./contribuition_stats.csv")
@@ -46,8 +49,7 @@ else:
     print("[1,'red ']: member")
     print("[0,'blue']: non-member")
 
-# Conjunto de dados sem slace
-'''
+# Conjunto de dados sem slice
 data = [
     go.Parcoords(
         line = dict(color = df['status'], colorscale = [[0,'blue'],[1,'red']]),
@@ -70,8 +72,8 @@ data = [
         ]
     )
 ]
-'''
 
+'''
 # Intervalo para o slace do conjunto de dados
 end_interval   = 20
 
@@ -97,7 +99,7 @@ data = [
         ]
     )
 ]
-
+'''
 layout = go.Layout(
     plot_bgcolor = '#E5E5E5',
     paper_bgcolor = '#E5E5E5',
